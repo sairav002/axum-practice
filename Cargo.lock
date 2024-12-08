@@ -127,6 +127,7 @@ name = "axum-practice"
 version = "0.1.0"
 dependencies = [
  "anyhow",
+ "async-trait",
  "axum",
  "httpc-test",
  "lazy-regex",
